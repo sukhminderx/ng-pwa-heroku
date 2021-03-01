@@ -1,0 +1,7 @@
+{
+  "name": "shops",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node dist/shops/server/main.js"
+  }
+}
